@@ -12,7 +12,7 @@
 
 🎓 Pre-final Year B.Tech - Electronics & Communication Engineering  
 💻 Passionate about **Hardware + Software Integration**  
-🚀 Exploring **AI/ML, Embedded Systems, Full-Stack Development**  
+🚀 Exploring **AI/ML, Embedded Systems**  
 📡 Currently working on: *Cyberbullying Detection (AI/ML) & IoT Projects (TPMS)*  
 🎯 Goal: Secure a great on-campus placement & build impactful solutions  
 
